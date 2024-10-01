@@ -3,7 +3,7 @@ Simumatik Production Line Control and Monitoring System
 This project is designed to control and monitor a factory production line simulation using Simumatik. The system integrates Python for controlling the factory components, MQTT for communication, and Node-RED for dashboard visualization. The project supports real-time monitoring of Key Performance Indicators (KPIs) such as Overall Equipment Effectiveness (OEE), production rates, and error handling.
 
 ·Features：
-Dual Production Line Control: Manages two separate production lines (left and right), each capable of producing different products (lids or bases).
+Dual Production Line Control: Manages two separate production lines (left and right), each capable of producing different products (lids or bases).  
 Real-time Monitoring: Tracks production metrics including busy time, idle time, error time, and total production.
 Collision Prevention: Ensures no product collision occurs when both production lines merge.
 Batch Production: Supports batch production with customizable batch sizes.
